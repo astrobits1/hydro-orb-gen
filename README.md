@@ -4,7 +4,8 @@
 * Electron wave function $\psi_{n, l, m_{l}}(r, \theta, \phi)$ was obtained by computing $R_{n, l}(r)$ (radial) and $Y_{l, m_l}(\theta, \phi)$ (angular) components individually.
 * Probability density function for orbital with certain quantum numbers $n, l, m_l$ was resolved using $|\psi(r, \theta, \phi)|^2$ and was then sampled in 3D space around origin
 spherically.
-* Probability was then plotted for granular points until probability integral gave sufficiently high number (>0.97).
+* Normalised probability values were then plotted as granular points until probability integral gave sufficiently high number (>0.97).
+* Sign of $\psi(r, \theta, \phi)$ was used to assign colour gradient and transparency to points, blue being `+` and red being `-`.
 * For $m \neq 0$, linear combination was done for $+m$ and $-m$ angular wave functions to obtain complete wavefunction for symmetric orbitals.
 * Normalization was handled for radial and angular components, and verified by integration.
 
