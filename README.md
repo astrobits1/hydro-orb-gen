@@ -26,7 +26,6 @@ spherically.
 ![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/3dxz.png)
 ![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/3dx2y2.png)
 ![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/4f3.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/4f4.png)
 ![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/5g2.png)
 ![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/5g4.png)
 ![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/5g5.png)
